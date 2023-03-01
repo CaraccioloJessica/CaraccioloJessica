@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">A passionate full stack frontend developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caracciolojessica&label=Profile%20views&color=0e75b6&style=flat" alt="caracciolojessica" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caracciolojessica&label=Profile%20views&color=75b87d&style=flat" alt="caracciolojessica" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caracciolojessica&show_icons=true&locale=en&layout=compact" alt="caracciolojessica" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caracciolojessica&show_icons=true&locale=en" alt="caracciolojessica" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caracciolojessica&" alt="caracciolojessica" /></p>
