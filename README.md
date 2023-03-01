@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">A passionate full stack frontend developer from Italy</h3>
 
+[![](https://visitcount.itsvg.in/api?id=CaraccioloJessica&icon=7&color=8)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jessicacaracciolo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessica-caracciolo) 
@@ -11,8 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=CaraccioloJessica&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CaraccioloJessica&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaraccioloJessica&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=CaraccioloJessica&icon=7&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
