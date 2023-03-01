@@ -1,5 +1,4 @@
-![behance icon](https://user-images.githubusercontent.com/112499167/222264645-9a184b8a-3eb0-4c6c-a09b-fc0abd408504.png)
-
+![git-banner](https://user-images.githubusercontent.com/112499167/222268816-8d00850d-23d3-4332-b21a-4faa609ead26.png)
 ---
 
 <h1 align="center">Hi 👋, I'm Jessica</h1>
