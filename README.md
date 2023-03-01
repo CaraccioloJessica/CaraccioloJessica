@@ -1,3 +1,7 @@
+![behance icon](https://user-images.githubusercontent.com/112499167/222264645-9a184b8a-3eb0-4c6c-a09b-fc0abd408504.png)
+
+---
+
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">A passionate full stack frontend developer from Italy</h3>
 
